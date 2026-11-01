@@ -1,5 +1,5 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "releaseNotes": "Atnaujintas ataskaitų išsaugojimas ir kuro apskaita"
+  "versionCode": 3,
+  "versionName": "1.2",
+  "releaseNotes": "Sutvarkytas logotipo atvaizdavimas, pridėtas duomenų išsaugotojo mygtukas ir atnaujinimų tikrinimas."
 }
