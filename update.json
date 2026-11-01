@@ -1,6 +1,5 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "downloadUrl": "https://github.com/fakson-beep/kel_lapas/blob/main/KelionesLapas.apk",
-  "releaseNotes": "Atnaujinta: pridėtas duomenų išsaugojimo mygtukas ir atnaujinta kuro apskaita."
+  "versionCode": 2,
+  "versionName": "1.1",
+  "releaseNotes": "Atnaujintas ataskaitų išsaugojimas ir kuro apskaita"
 }
